@@ -47,7 +47,7 @@
 
 2. **Configuration Documentation**  
    - Detailed configuration of:  
-     - Cryptographic parameters (AES-256, SHA-256, Diffie-Hellman Group 14)  
+     - Cryptographic parameters (DES, SHA-256, Diffie-Hellman Group 20 and 21)  
      - IP addressing schemes  
      - Firewall rules and policies  
 
